@@ -1,31 +1,14 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 
-# Deploy your site
+# Publish your blog
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+Send the markdown file to our [email](mailto:ieeessit@vit.ac.in) with the subject **Blog Post: "Title of the blog"**
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+We will publish of get back to you with the feedback within 48 hours of the mail.
 
-## Build your site
+:::tip Keep in touch
+Stay tuned to our instagram to stay updated with what we are doing.
+:::
 
-Build your site **for production**:
-
-```bash
-npm run build
-```
-
-The static files are generated in the `build` folder.
-
-## Deploy your site
-
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at `http://localhost:3000/`.
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
