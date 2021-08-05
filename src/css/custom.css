@@ -7,23 +7,27 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #008080;
-  --ifm-color-primary-dark: #007373;
-  --ifm-color-primary-darker: #006d6d;
-  --ifm-color-primary-darkest: #005a5a;
-  --ifm-color-primary-light: #008d8d;
-  --ifm-color-primary-lighter: #009393;
-  --ifm-color-primary-lightest: #00a6a6;
-  --ifm-code-font-size: 95%;
+	--ifm-color-primary: #10a080;
+	--ifm-color-primary-dark: #0e9073;
+	--ifm-color-primary-darker: #0e886d;
+	--ifm-color-primary-darkest: #0b705a;
+	--ifm-color-primary-light: #12b08d;
+	--ifm-color-primary-lighter: #12b893;
+	--ifm-color-primary-lightest: #15d0a6;
+	--ifm-code-font-size: 95%;
 }
 
 .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.1);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
+	background-color: rgba(0, 0, 0, 0.1);
+	display: block;
+	margin: 0 calc(-1 * var(--ifm-pre-padding));
+	padding: 0 var(--ifm-pre-padding);
 }
 
-html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
+html[data-theme="dark"] .docusaurus-highlight-code-line {
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme="dark"] .navbar .navbar__logo {
+	content: url("/img/white-logo.png");
 }

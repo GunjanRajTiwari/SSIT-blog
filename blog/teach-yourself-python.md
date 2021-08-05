@@ -1,6 +1,6 @@
 ---
-slug: learn python
-title: How to teach yourself Python
+slug: learn-python
+title: How to teach yourself Python?
 author: Gunjan Raj Tiwari
 author_title: Tech Head @ SSIT
 author_url: https://www.instagram.com/gunjan_raj_tiwari/
