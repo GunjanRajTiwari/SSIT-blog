@@ -7,14 +7,34 @@
 
 /* You can override the default Infima variables here. */
 :root {
-	--ifm-color-primary: #10a080;
-	--ifm-color-primary-dark: #0e9073;
-	--ifm-color-primary-darker: #0e886d;
-	--ifm-color-primary-darkest: #0b705a;
-	--ifm-color-primary-light: #12b08d;
-	--ifm-color-primary-lighter: #12b893;
-	--ifm-color-primary-lightest: #15d0a6;
-	--ifm-code-font-size: 95%;
+	--ifm-color-primary: #049080;
+	--ifm-color-primary-dark: #048273;
+	--ifm-color-primary-darker: #037a6d;
+	--ifm-color-primary-darkest: #03655a;
+	--ifm-color-primary-light: #049e8d;
+	--ifm-color-primary-lighter: #05a693;
+	--ifm-color-primary-lightest: #05bba6;
+	--ifm-code-font-size: 96%;
+}
+
+html[data-theme="dark"] {
+	--ifm-color-primary: #20c0a0;
+	--ifm-color-primary-dark: #1dad90;
+	--ifm-color-primary-darker: #1ba388;
+	--ifm-color-primary-darkest: #168670;
+	--ifm-color-primary-light: #23d3b0;
+	--ifm-color-primary-lighter: #27dbb7;
+	--ifm-color-primary-lightest: #43e0c0;
+}
+
+@media screen and (min-width: 997px) {
+	:root {
+		--ifm-font-size-base: 17px;
+	}
+
+	article header h1 {
+		font-size: 2rem !important;
+	}
 }
 
 .docusaurus-highlight-code-line {
