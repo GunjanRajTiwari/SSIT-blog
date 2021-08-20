@@ -8,9 +8,9 @@ author_image_url: https://gunjanraj.netlify.app/assets/avatar-min.jpg
 tags: [Learning, Python, Programming]
 ---
 
-## How to teach yourself python? (The right way)
+## How to teach yourself python? The right way.
 
-**Python** may be a high level, interpreted, object-oriented blah… blah... programming language but I see it as a toy, children programmers are crazy about. Yes, it has easy syntax and pretty easy to learn but if learned the correct way. Which is ....
+**Python** may be a high level, interpreted, object-oriented blah… blah... programming language but I see it as a toy, children programmers are crazy about. Yes, it has easy syntax and pretty easy to learn but if learned the correct way. So ....
 
 <!--truncate-->
 
