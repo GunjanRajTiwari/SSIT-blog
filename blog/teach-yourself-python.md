@@ -10,6 +10,12 @@ tags: [Learning, Python, Programming]
 
 ## How to teach yourself python? The right way.
 
+:::note
+
+This is applicable for programming in general.
+
+:::
+
 **Python** may be a high level, interpreted, object-oriented blah… blah... programming language but I see it as a toy, children programmers are crazy about. Yes, it has easy syntax and pretty easy to learn but if learned the correct way. So ....
 
 <!--truncate-->

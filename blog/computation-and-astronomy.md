@@ -4,7 +4,7 @@ title: Computation and Astronomy
 author: Triparna
 author_title: Sr. Core @ SSIT
 author_url: https://www.instagram.com/ieeessit/
-author_image_url: https://scontent.fktm1-1.fna.fbcdn.net/v/t31.18172-8/16300085_223404824733247_6835504913816063849_o.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=eByBwgUrP28AX_7AyFC&tn=6KSs3ZhKHngMvrtN&_nc_ht=scontent.fktm1-1.fna&oh=5f4cd9a5ded6fd093993880204e36cee&oe=6145FB1C
+author_image_url: https://ssit-blog.netlify.app/img/logo.png
 tags: [computer, computation, astronomy]
 ---
 

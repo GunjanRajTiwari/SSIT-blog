@@ -5,7 +5,7 @@ author: Netra
 author_title: Sr. Core @ SSIT
 author_url: https://www.instagram.com/lostgirlkriss/
 author_image_url: /img/author/netra.jpg
-tags: [Learning, Python, Programming]
+tags: [cloud, aws, storage]
 ---
 
 # Unclouding Cloud Computing Technology
