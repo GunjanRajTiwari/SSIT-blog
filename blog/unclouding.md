@@ -6,6 +6,7 @@ author_title: Sr. Core @ SSIT
 author_url: https://www.instagram.com/lostgirlkriss/
 author_image_url: /img/author/netra.jpg
 tags: [cloud, aws, storage]
+date: 2021-08-20
 ---
 
 # Unclouding Cloud Computing Technology

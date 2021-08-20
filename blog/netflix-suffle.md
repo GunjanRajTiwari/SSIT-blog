@@ -6,6 +6,7 @@ author_title: Vice Chair @ SSIT
 author_url: https://www.instagram.com/jayant_z/
 author_image_url: https://www.ssitvit.tech/img/jayant.jpg
 tags: [Netflix, shuffle]
+date: 2021-08-15
 ---
 
 ### Hello World!

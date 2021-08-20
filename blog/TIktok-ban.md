@@ -6,6 +6,7 @@ author_title: Public Relation Head @ SSIT
 author_url: https://www.instagram.com/_._aamras_._/
 author_image_url: https://www.ssitvit.tech/img/amrasha.png
 tags: [Tik Tok, content]
+date: 2021-08-14
 ---
 
 > _“I m bored in the house and I m in the house bored…”_

@@ -6,6 +6,7 @@ author_title: Sr. Core @ SSIT
 author_url: https://www.instagram.com/ieeessit/
 author_image_url: https://ssit-blog.netlify.app/img/logo.png
 tags: [computer, computation, astronomy]
+date: 2021-08-18
 ---
 
 # Computation and Anstronomy

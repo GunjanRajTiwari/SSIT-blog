@@ -6,6 +6,7 @@ author_title: Sr. Core @ SSIT
 author_url: https://www.linkedin.com/in/rehan-fauzi-631498207/
 author_image_url: /img/author/rehan.jpg
 tags: [qubit, quantum, computing]
+date: 2021-08-19
 ---
 
 # _An Introduction To Quantum Computing_

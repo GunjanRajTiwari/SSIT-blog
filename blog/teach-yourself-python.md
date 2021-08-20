@@ -6,6 +6,7 @@ author_title: Tech Head @ SSIT
 author_url: https://www.instagram.com/gunjan_raj_tiwari/
 author_image_url: https://gunjanraj.netlify.app/assets/avatar-min.jpg
 tags: [Learning, Python, Programming]
+date: 2021-08-16
 ---
 
 ## How to teach yourself python? The right way.
